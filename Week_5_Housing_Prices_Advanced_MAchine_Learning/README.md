@@ -21,6 +21,8 @@ This week provided practical experience with:
 
 The dataset contains information about houses and their corresponding prices.
 
+Link to dataset: https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
+
 The main variables include:
 
 * `price` – Target variable representing the house price
